@@ -1,0 +1,1778 @@
+{
+            "targetOrder": 52, 
+            "toast": "", 
+            "feed": 0, 
+            "depDesc": "", 
+            "buses": [
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL8307", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.736364, 
+                    "licence": "粤BL8307", 
+                    "link": "", 
+                    "lng": 113.77164, 
+                    "mTicket": 0, 
+                    "order": 2, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 5, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498722809959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 5683
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7207", 
+                    "delay": 0, 
+                    "distanceToSc": 115, 
+                    "lat": 22.73756, 
+                    "licence": "粤BL7207", 
+                    "link": "", 
+                    "lng": 113.78152, 
+                    "mTicket": 0, 
+                    "order": 8, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 7, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498722137959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 5011
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL8316", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.746593, 
+                    "licence": "粤BL8316", 
+                    "link": "", 
+                    "lng": 113.7969, 
+                    "mTicket": 0, 
+                    "order": 12, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 14, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498721563959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 4437
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7221", 
+                    "delay": 0, 
+                    "distanceToSc": 1429, 
+                    "lat": 22.747156, 
+                    "licence": "粤BL7221", 
+                    "link": "", 
+                    "lng": 113.81973, 
+                    "mTicket": 0, 
+                    "order": 15, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 6, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498721294959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 4168
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7297", 
+                    "delay": 0, 
+                    "distanceToSc": 147, 
+                    "lat": 22.744553, 
+                    "licence": "粤BL7297", 
+                    "link": "", 
+                    "lng": 113.824585, 
+                    "mTicket": 0, 
+                    "order": 16, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 5, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498721048959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 3922
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7418", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.74736, 
+                    "licence": "粤BL7418", 
+                    "link": "", 
+                    "lng": 113.79695, 
+                    "mTicket": 0, 
+                    "order": 20, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 5, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498720592959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 3466
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7301", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.689049, 
+                    "licence": "粤BL7301", 
+                    "link": "", 
+                    "lng": 113.826584, 
+                    "mTicket": 0, 
+                    "order": 26, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 6, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498720100959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 2974
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7488", 
+                    "delay": 0, 
+                    "distanceToSc": 668, 
+                    "lat": 22.655293, 
+                    "licence": "粤BM7488", 
+                    "link": "", 
+                    "lng": 113.821976, 
+                    "mTicket": 0, 
+                    "order": 33, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 4, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498719504959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 2378
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7428", 
+                    "delay": 0, 
+                    "distanceToSc": 459, 
+                    "lat": 22.618265, 
+                    "licence": "粤BM7428", 
+                    "link": "", 
+                    "lng": 113.85141, 
+                    "mTicket": 0, 
+                    "order": 38, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 10, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498718914959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 1788
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM6440", 
+                    "delay": 0, 
+                    "distanceToSc": 371, 
+                    "lat": 22.605173, 
+                    "licence": "粤BM6440", 
+                    "link": "", 
+                    "lng": 113.860146, 
+                    "mTicket": 0, 
+                    "order": 41, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 2, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498718626959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 1500
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7982", 
+                    "delay": 0, 
+                    "distanceToSc": 200, 
+                    "lat": 22.583511, 
+                    "licence": "粤BM7982", 
+                    "link": "", 
+                    "lng": 113.87563, 
+                    "mTicket": 0, 
+                    "order": 45, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 4, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498718189959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 1063
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL4070", 
+                    "delay": 0, 
+                    "distanceToSc": 352, 
+                    "lat": 22.604961, 
+                    "licence": "粤BL4070", 
+                    "link": "", 
+                    "lng": 113.860214, 
+                    "mTicket": 0, 
+                    "order": 48, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 7, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498717884959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 758
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7956", 
+                    "delay": 0, 
+                    "distanceToSc": 205, 
+                    "lat": 22.571264, 
+                    "licence": "粤BM7956", 
+                    "link": "", 
+                    "lng": 113.888374, 
+                    "mTicket": 0, 
+                    "order": 48, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 2, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498717870959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 744
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7926", 
+                    "delay": 0, 
+                    "distanceToSc": 844, 
+                    "lat": 22.570728, 
+                    "licence": "粤BM7926", 
+                    "link": "", 
+                    "lng": 113.88899, 
+                    "mTicket": 0, 
+                    "order": 49, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 2, 
+                    "travels": [
+                        {
+                            "arrivalTime": 1498717808959, 
+                            "order": 52, 
+                            "pRate": -1, 
+                            "travelTime": 682
+                        }
+                    ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7509", 
+                    "delay": 0, 
+                    "distanceToSc": 769, 
+                    "lat": 22.733252, 
+                    "licence": "粤BM7509", 
+                    "link": "", 
+                    "lng": 113.77115, 
+                    "mTicket": 0, 
+                    "order": 54, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 3, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7538", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.524145, 
+                    "licence": "粤BM7538", 
+                    "link": "", 
+                    "lng": 113.93408, 
+                    "mTicket": 0, 
+                    "order": 56, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 2, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7918", 
+                    "delay": 0, 
+                    "distanceToSc": 4417, 
+                    "lat": 22.523418, 
+                    "licence": "粤BM7918", 
+                    "link": "", 
+                    "lng": 113.951004, 
+                    "mTicket": 0, 
+                    "order": 58, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 3, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7313", 
+                    "delay": 0, 
+                    "distanceToSc": 2872, 
+                    "lat": 22.543074, 
+                    "licence": "粤BL7313", 
+                    "link": "", 
+                    "lng": 113.91677, 
+                    "mTicket": 0, 
+                    "order": 59, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 7, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM7315", 
+                    "delay": 0, 
+                    "distanceToSc": 848, 
+                    "lat": 22.733828, 
+                    "licence": "粤BM7315", 
+                    "link": "", 
+                    "lng": 113.77088, 
+                    "mTicket": 0, 
+                    "order": 62, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 3, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL3740", 
+                    "delay": 0, 
+                    "distanceToSc": 0, 
+                    "lat": 22.544594, 
+                    "licence": "粤BL3740", 
+                    "link": "", 
+                    "lng": 114.113625, 
+                    "mTicket": 0, 
+                    "order": 75, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 1, 
+                    "syncTime": 2, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7466", 
+                    "delay": 0, 
+                    "distanceToSc": 117, 
+                    "lat": 22.540884, 
+                    "licence": "粤BL7466", 
+                    "link": "", 
+                    "lng": 114.10664, 
+                    "mTicket": 0, 
+                    "order": 76, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 6, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BL7126", 
+                    "delay": 0, 
+                    "distanceToSc": 394, 
+                    "lat": 22.53135, 
+                    "licence": "粤BL7126", 
+                    "link": "", 
+                    "lng": 114.05568, 
+                    "mTicket": 0, 
+                    "order": 77, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 7, 
+                    "travels": [ ]
+                }, 
+                {
+                    "acBus": 0, 
+                    "beforeBaseIndex": -1, 
+                    "beforeLat": -1, 
+                    "beforeLng": -1, 
+                    "busBaseIndex": -1, 
+                    "busId": "粤BM6597", 
+                    "delay": 0, 
+                    "distanceToSc": 340, 
+                    "lat": 22.540806, 
+                    "licence": "粤BM6597", 
+                    "link": "", 
+                    "lng": 114.113525, 
+                    "mTicket": 0, 
+                    "order": 77, 
+                    "rType": 0, 
+                    "shareId": "", 
+                    "state": 0, 
+                    "syncTime": 2, 
+                    "travels": [ ]
+                }
+            ], 
+            "line": {
+                "desc": "", 
+                "direction": 0, 
+                "endSn": "火车站337总站", 
+                "firstTime": "05:00", 
+                "lastTime": "22:00", 
+                "lineId": "0755-03370-0", 
+                "lineNo": "03370", 
+                "name": "337", 
+                "price": "2~10元", 
+                "shortDesc": "", 
+                "sortPolicy": "flpolicy=0", 
+                "startSn": "沙井海上田园", 
+                "state": 0, 
+                "stationsNum": 77, 
+                "type": 0, 
+                "version": ""
+            }, 
+            "roads": [
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.44, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.56, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.63, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.37, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.62, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.38, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.4, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.6, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.59, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.41000000000000003, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.65, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.35, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.87, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.13, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.49, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.4, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.10999999999999999, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.6, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.13, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.78, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.21999999999999997, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.24, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.76, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.75, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.25, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.73, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.72, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.11, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.17000000000000004, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.13, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.36, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.51, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.11, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.89, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.6, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.4, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.73, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.43, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.5700000000000001, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.35, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.65, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.73, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.82, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.18000000000000005, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.3, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.32, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.37999999999999995, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.18, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.8200000000000001, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.59, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.41000000000000003, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.1, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.63, 
+                        "TVL": 2
+                    }
+                ]
+            ], 
+            "depTable": 0, 
+            "otherlines": [
+                {
+                    "lineId": "0755-03370-1"
+                }
+            ], 
+            "fav": 0, 
+            "stations": [
+                {
+                    "distanceToSp": 0, 
+                    "metros": [ ], 
+                    "order": 1, 
+                    "sId": "0755-6581", 
+                    "sn": "沙井海上田园"
+                }, 
+                {
+                    "distanceToSp": 513, 
+                    "metros": [ ], 
+                    "order": 2, 
+                    "sId": "0755-731", 
+                    "sn": "民主新村"
+                }, 
+                {
+                    "distanceToSp": 508, 
+                    "metros": [ ], 
+                    "order": 3, 
+                    "sId": "0755-950", 
+                    "sn": "民主村委"
+                }, 
+                {
+                    "distanceToSp": 763, 
+                    "metros": [ ], 
+                    "order": 4, 
+                    "sId": "0755-3809", 
+                    "sn": "安托山高科技园"
+                }, 
+                {
+                    "distanceToSp": 209, 
+                    "metros": [ ], 
+                    "order": 5, 
+                    "sId": "0755-3978", 
+                    "sn": "蚝一村委"
+                }, 
+                {
+                    "distanceToSp": 583, 
+                    "metros": [ ], 
+                    "order": 6, 
+                    "sId": "0755-4879", 
+                    "sn": "立才学校"
+                }, 
+                {
+                    "distanceToSp": 632, 
+                    "metros": [ ], 
+                    "order": 7, 
+                    "sId": "0755-1024", 
+                    "sn": "西环沙二新村"
+                }, 
+                {
+                    "distanceToSp": 508, 
+                    "metros": [ ], 
+                    "order": 8, 
+                    "sId": "0755-3645", 
+                    "sn": "蚝三丰泽园"
+                }, 
+                {
+                    "distanceToSp": 536, 
+                    "metros": [ ], 
+                    "order": 9, 
+                    "sId": "0755-5132", 
+                    "sn": "沙四社区"
+                }, 
+                {
+                    "distanceToSp": 541, 
+                    "metros": [ ], 
+                    "order": 10, 
+                    "sId": "0755-5213", 
+                    "sn": "西环桥头"
+                }, 
+                {
+                    "distanceToSp": 594, 
+                    "metros": [ ], 
+                    "order": 11, 
+                    "sId": "0755-2121", 
+                    "sn": "码头桥"
+                }, 
+                {
+                    "distanceToSp": 552, 
+                    "metros": [ ], 
+                    "order": 12, 
+                    "sId": "0755-5100", 
+                    "sn": "中华制漆"
+                }, 
+                {
+                    "distanceToSp": 538, 
+                    "metros": [ ], 
+                    "order": 13, 
+                    "sId": "0755-5503", 
+                    "sn": "沙井巡防中队"
+                }, 
+                {
+                    "distanceToSp": 446, 
+                    "metros": [ ], 
+                    "order": 14, 
+                    "sId": "0755-3236", 
+                    "sn": "益华电子城南"
+                }, 
+                {
+                    "distanceToSp": 1527, 
+                    "metros": [ ], 
+                    "order": 15, 
+                    "sId": "0755-5350", 
+                    "sn": "新桥农贸市场"
+                }, 
+                {
+                    "distanceToSp": 611, 
+                    "metros": [ ], 
+                    "order": 16, 
+                    "sId": "0755-4723", 
+                    "sn": "长丰酒店"
+                }, 
+                {
+                    "distanceToSp": 665, 
+                    "metros": [ ], 
+                    "order": 17, 
+                    "sId": "0755-4310", 
+                    "sn": "新桥派出所"
+                }, 
+                {
+                    "distanceToSp": 290, 
+                    "metros": [ ], 
+                    "order": 18, 
+                    "sId": "0755-6965", 
+                    "sn": "沙井中心客运站①"
+                }, 
+                {
+                    "distanceToSp": 1267, 
+                    "metros": [ ], 
+                    "order": 19, 
+                    "sId": "0755-4164", 
+                    "sn": "上寮市场"
+                }, 
+                {
+                    "distanceToSp": 583, 
+                    "metros": [ ], 
+                    "order": 20, 
+                    "sId": "0755-1799", 
+                    "sn": "沙井电子城"
+                }, 
+                {
+                    "distanceToSp": 454, 
+                    "metros": [ ], 
+                    "order": 21, 
+                    "sId": "0755-2116", 
+                    "sn": "沙井南环路口"
+                }, 
+                {
+                    "distanceToSp": 597, 
+                    "metros": [ ], 
+                    "order": 22, 
+                    "sId": "0755-496", 
+                    "sn": "凤凰客运站"
+                }, 
+                {
+                    "distanceToSp": 406, 
+                    "metros": [ ], 
+                    "order": 23, 
+                    "sId": "0755-5454", 
+                    "sn": "稔田社区"
+                }, 
+                {
+                    "distanceToSp": 338, 
+                    "metros": [ ], 
+                    "order": 24, 
+                    "sId": "0755-3250", 
+                    "sn": "凤凰油站"
+                }, 
+                {
+                    "distanceToSp": 486, 
+                    "metros": [ ], 
+                    "order": 25, 
+                    "sId": "0755-2521", 
+                    "sn": "凤凰立交"
+                }, 
+                {
+                    "distanceToSp": 761, 
+                    "metros": [ ], 
+                    "order": 26, 
+                    "sId": "0755-2382", 
+                    "sn": "凤凰天桥"
+                }, 
+                {
+                    "distanceToSp": 343, 
+                    "metros": [ ], 
+                    "order": 27, 
+                    "sId": "0755-4477", 
+                    "sn": "凤凰花苑"
+                }, 
+                {
+                    "distanceToSp": 416, 
+                    "metros": [ ], 
+                    "order": 28, 
+                    "sId": "0755-4910", 
+                    "sn": "福永卫生监督所"
+                }, 
+                {
+                    "distanceToSp": 1057, 
+                    "metros": [ ], 
+                    "order": 29, 
+                    "sId": "0755-144", 
+                    "sn": "福永汽车站"
+                }, 
+                {
+                    "distanceToSp": 378, 
+                    "metros": [ ], 
+                    "order": 30, 
+                    "sId": "0755-2256", 
+                    "sn": "福永家私街"
+                }, 
+                {
+                    "distanceToSp": 731, 
+                    "metros": [ ], 
+                    "order": 31, 
+                    "sId": "0755-3737", 
+                    "sn": "怀德商贸城"
+                }, 
+                {
+                    "distanceToSp": 336, 
+                    "metros": [ ], 
+                    "order": 32, 
+                    "sId": "0755-804", 
+                    "sn": "怀德翠岗"
+                }, 
+                {
+                    "distanceToSp": 2228, 
+                    "metros": [ ], 
+                    "order": 33, 
+                    "sId": "0755-1560", 
+                    "sn": "宝安交警大队"
+                }, 
+                {
+                    "distanceToSp": 656, 
+                    "metros": [ ], 
+                    "order": 34, 
+                    "sId": "0755-1202", 
+                    "sn": "翠湖花园"
+                }, 
+                {
+                    "distanceToSp": 1150, 
+                    "metros": [ ], 
+                    "order": 35, 
+                    "sId": "0755-3207", 
+                    "sn": "黄田"
+                }, 
+                {
+                    "distanceToSp": 540, 
+                    "metros": [ ], 
+                    "order": 36, 
+                    "sId": "0755-4758", 
+                    "sn": "钟屋"
+                }, 
+                {
+                    "distanceToSp": 802, 
+                    "metros": [ ], 
+                    "order": 37, 
+                    "sId": "0755-6295", 
+                    "sn": "鹤洲立交"
+                }, 
+                {
+                    "distanceToSp": 809, 
+                    "metros": [ ], 
+                    "order": 38, 
+                    "sId": "0755-6296", 
+                    "sn": "宝安桃源居西"
+                }, 
+                {
+                    "distanceToSp": 309, 
+                    "metros": [ ], 
+                    "order": 39, 
+                    "sId": "0755-3919", 
+                    "sn": "三围路口"
+                }, 
+                {
+                    "distanceToSp": 708, 
+                    "metros": [ ], 
+                    "order": 40, 
+                    "sId": "0755-1069", 
+                    "sn": "劲力集团"
+                }, 
+                {
+                    "distanceToSp": 629, 
+                    "metros": [ ], 
+                    "order": 41, 
+                    "sId": "0755-4621", 
+                    "sn": "固戍村"
+                }, 
+                {
+                    "distanceToSp": 429, 
+                    "metros": [ ], 
+                    "order": 42, 
+                    "sId": "0755-1986", 
+                    "sn": "西成工业区"
+                }, 
+                {
+                    "distanceToSp": 598, 
+                    "metros": [ ], 
+                    "order": 43, 
+                    "sId": "0755-5644", 
+                    "sn": "宝安农批市场"
+                }, 
+                {
+                    "distanceToSp": 1091, 
+                    "metros": [ ], 
+                    "order": 44, 
+                    "sId": "0755-2386", 
+                    "sn": "西乡立交"
+                }, 
+                {
+                    "distanceToSp": 628, 
+                    "metros": [ ], 
+                    "order": 45, 
+                    "sId": "0755-5508", 
+                    "sn": "宝安中心医院"
+                }, 
+                {
+                    "distanceToSp": 424, 
+                    "metros": [ ], 
+                    "order": 46, 
+                    "sId": "0755-982", 
+                    "sn": "西乡路口"
+                }, 
+                {
+                    "distanceToSp": 878, 
+                    "metros": [ ], 
+                    "order": 47, 
+                    "sId": "0755-3480", 
+                    "sn": "上川路口"
+                }, 
+                {
+                    "distanceToSp": 583, 
+                    "metros": [ ], 
+                    "order": 48, 
+                    "sId": "0755-2820", 
+                    "sn": "裕安路口"
+                }, 
+                {
+                    "distanceToSp": 1036, 
+                    "metros": [ ], 
+                    "order": 49, 
+                    "sId": "0755-213", 
+                    "sn": "宝安交通运输局②"
+                }, 
+                {
+                    "distanceToSp": 1392, 
+                    "metros": [ ], 
+                    "order": 50, 
+                    "sId": "0755-6469", 
+                    "sn": "深南北环立交②"
+                }, 
+                {
+                    "distanceToSp": 1921, 
+                    "metros": [ ], 
+                    "order": 51, 
+                    "sId": "0755-892", 
+                    "sn": "南头②"
+                }, 
+                {
+                    "distanceToSp": 754, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 52, 
+                    "sId": "0755-1970", 
+                    "sn": "南山文体中心"
+                }, 
+                {
+                    "distanceToSp": 578, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 53, 
+                    "sId": "0755-1736", 
+                    "sn": "市六医院东"
+                }, 
+                {
+                    "distanceToSp": 907, 
+                    "metros": [
+                        {
+                            "color": "111,34,70", 
+                            "lineId": "1102", 
+                            "lineNo": "11"
+                        }
+                    ], 
+                    "order": 54, 
+                    "sId": "0755-4448", 
+                    "sn": "荔园大厦"
+                }, 
+                {
+                    "distanceToSp": 726, 
+                    "metros": [ ], 
+                    "order": 55, 
+                    "sId": "0755-4767", 
+                    "sn": "后海立交"
+                }, 
+                {
+                    "distanceToSp": 664, 
+                    "metros": [ ], 
+                    "order": 56, 
+                    "sId": "0755-3614", 
+                    "sn": "滨海之窗"
+                }, 
+                {
+                    "distanceToSp": 1086, 
+                    "metros": [ ], 
+                    "order": 57, 
+                    "sId": "0755-4818", 
+                    "sn": "深圳湾体育中心"
+                }, 
+                {
+                    "distanceToSp": 5315, 
+                    "metros": [ ], 
+                    "order": 58, 
+                    "sId": "0755-3786", 
+                    "sn": "红树林"
+                }, 
+                {
+                    "distanceToSp": 2999, 
+                    "metros": [ ], 
+                    "order": 59, 
+                    "sId": "0755-2936", 
+                    "sn": "上沙"
+                }, 
+                {
+                    "distanceToSp": 1030, 
+                    "metros": [ ], 
+                    "order": 60, 
+                    "sId": "0755-4271", 
+                    "sn": "福田体育公园"
+                }, 
+                {
+                    "distanceToSp": 519, 
+                    "metros": [ ], 
+                    "order": 61, 
+                    "sId": "0755-4903", 
+                    "sn": "福田实验学校②"
+                }, 
+                {
+                    "distanceToSp": 1502, 
+                    "metros": [ ], 
+                    "order": 62, 
+                    "sId": "0755-4771", 
+                    "sn": "会展中心南"
+                }, 
+                {
+                    "distanceToSp": 398, 
+                    "metros": [ ], 
+                    "order": 63, 
+                    "sId": "0755-4883", 
+                    "sn": "皇岗村北"
+                }, 
+                {
+                    "distanceToSp": 799, 
+                    "metros": [ ], 
+                    "order": 64, 
+                    "sId": "0755-4152", 
+                    "sn": "联合广场"
+                }, 
+                {
+                    "distanceToSp": 1032, 
+                    "metros": [ ], 
+                    "order": 65, 
+                    "sId": "0755-4213", 
+                    "sn": "福滨新村②"
+                }, 
+                {
+                    "distanceToSp": 467, 
+                    "metros": [ ], 
+                    "order": 66, 
+                    "sId": "0755-4614", 
+                    "sn": "岗边村"
+                }, 
+                {
+                    "distanceToSp": 896, 
+                    "metros": [ ], 
+                    "order": 67, 
+                    "sId": "0755-4832", 
+                    "sn": "滨河华强天桥"
+                }, 
+                {
+                    "distanceToSp": 195, 
+                    "metros": [ ], 
+                    "order": 68, 
+                    "sId": "0755-3360", 
+                    "sn": "上步中学②"
+                }, 
+                {
+                    "distanceToSp": 569, 
+                    "metros": [ ], 
+                    "order": 69, 
+                    "sId": "0755-944", 
+                    "sn": "上步南天桥"
+                }, 
+                {
+                    "distanceToSp": 716, 
+                    "metros": [ ], 
+                    "order": 70, 
+                    "sId": "0755-4127", 
+                    "sn": "滨江新村②"
+                }, 
+                {
+                    "distanceToSp": 382, 
+                    "metros": [ ], 
+                    "order": 71, 
+                    "sId": "0755-1583", 
+                    "sn": "鹿丹村"
+                }, 
+                {
+                    "distanceToSp": 1000, 
+                    "metros": [ ], 
+                    "order": 72, 
+                    "sId": "0755-373", 
+                    "sn": "宝安南路"
+                }, 
+                {
+                    "distanceToSp": 448, 
+                    "metros": [ ], 
+                    "order": 73, 
+                    "sId": "0755-2552", 
+                    "sn": "人民桥"
+                }, 
+                {
+                    "distanceToSp": 301, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 74, 
+                    "sId": "0755-1571", 
+                    "sn": "门诊部②"
+                }, 
+                {
+                    "distanceToSp": 409, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 75, 
+                    "sId": "0755-3141", 
+                    "sn": "国贸"
+                }, 
+                {
+                    "distanceToSp": 290, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 76, 
+                    "sId": "0755-966", 
+                    "sn": "罗湖小学"
+                }, 
+                {
+                    "distanceToSp": 615, 
+                    "metros": [ ], 
+                    "order": 77, 
+                    "sId": "0755-4464", 
+                    "sn": "火车站337总站"
+                }
+            ], 
+            "notify": 0
+        }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="trafficColorGood">#4fb80d</color>
+    <color name="trafficColorNotGood">#f08d26</color>
+    <color name="trafficColorBad">#e62e25</color>
+    <color name="trafficColorVaryBad">#b62315</color>
+    <color name="currentStationColor">#ff5722</color>
+</resources>

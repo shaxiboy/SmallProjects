@@ -1,0 +1,808 @@
+{
+            "targetOrder": 31, 
+            "toast": "", 
+            "feed": 0, 
+            "depDesc": "", 
+            "buses": [ ], 
+            "line": {
+                "desc": "暂无车辆实时信息", 
+                "direction": 1, 
+                "endSn": "南方科技大学", 
+                "firstTime": "06:30", 
+                "lastTime": "19:20", 
+                "lineId": "0755-01220-1", 
+                "lineNo": "01220", 
+                "name": "122", 
+                "price": "2元", 
+                "shortDesc": "暂无信息", 
+                "sortPolicy": "flpolicy=0", 
+                "startSn": "荔山工业园总站", 
+                "state": -2, 
+                "stationsNum": 49, 
+                "type": 0, 
+                "version": ""
+            }, 
+            "roads": [
+                [
+                    {
+                        "TPC": 0.85, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.15000000000000002, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.12, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.15, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.32, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.41, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.76, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.24, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.11, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.89, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.52, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.48, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.42, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.5800000000000001, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.31, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.69, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.41, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.5900000000000001, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.64, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.36, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.67, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.32999999999999996, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.61, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.39, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.25, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.75, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.75, 
+                        "TVL": 3
+                    }, 
+                    {
+                        "TPC": 0.25, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.27, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.41, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.32, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.88, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.12, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.43, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.5700000000000001, 
+                        "TVL": 3
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.65, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.35, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.83, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.17000000000000004, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.89, 
+                        "TVL": 1
+                    }, 
+                    {
+                        "TPC": 0.10999999999999999, 
+                        "TVL": 2
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 0.82, 
+                        "TVL": 2
+                    }, 
+                    {
+                        "TPC": 0.18000000000000005, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ], 
+                [
+                    {
+                        "TPC": 1, 
+                        "TVL": 1
+                    }
+                ]
+            ], 
+            "depTable": 0, 
+            "otherlines": [
+                {
+                    "lineId": "0755-01220-0"
+                }
+            ], 
+            "fav": 0, 
+            "stations": [
+                {
+                    "distanceToSp": 0, 
+                    "metros": [ ], 
+                    "order": 1, 
+                    "sId": "0755-6057", 
+                    "sn": "荔山工业园总站"
+                }, 
+                {
+                    "distanceToSp": 385, 
+                    "metros": [ ], 
+                    "order": 2, 
+                    "sId": "0755-4345", 
+                    "sn": "荔山工业园"
+                }, 
+                {
+                    "distanceToSp": 388, 
+                    "metros": [ ], 
+                    "order": 3, 
+                    "sId": "0755-4283", 
+                    "sn": "万豪月半山"
+                }, 
+                {
+                    "distanceToSp": 988, 
+                    "metros": [ ], 
+                    "order": 4, 
+                    "sId": "0755-6867", 
+                    "sn": "龙瑞佳园"
+                }, 
+                {
+                    "distanceToSp": 444, 
+                    "metros": [ ], 
+                    "order": 5, 
+                    "sId": "0755-7104", 
+                    "sn": "龙瑞佳园天桥"
+                }, 
+                {
+                    "distanceToSp": 400, 
+                    "metros": [ ], 
+                    "order": 6, 
+                    "sId": "0755-1171", 
+                    "sn": "蛇口港交警大队"
+                }, 
+                {
+                    "distanceToSp": 555, 
+                    "metros": [ ], 
+                    "order": 7, 
+                    "sId": "0755-2674", 
+                    "sn": "松湖路口"
+                }, 
+                {
+                    "distanceToSp": 433, 
+                    "metros": [
+                        {
+                            "color": "227,152,21", 
+                            "lineId": "1045", 
+                            "lineNo": "2"
+                        }
+                    ], 
+                    "order": 8, 
+                    "sId": "0755-6535", 
+                    "sn": "蛇口港地铁站"
+                }, 
+                {
+                    "distanceToSp": 1172, 
+                    "metros": [
+                        {
+                            "color": "227,152,21", 
+                            "lineId": "1045", 
+                            "lineNo": "2"
+                        }
+                    ], 
+                    "order": 9, 
+                    "sId": "0755-753", 
+                    "sn": "海上世界"
+                }, 
+                {
+                    "distanceToSp": 368, 
+                    "metros": [
+                        {
+                            "color": "227,152,21", 
+                            "lineId": "1045", 
+                            "lineNo": "2"
+                        }
+                    ], 
+                    "order": 10, 
+                    "sId": "0755-1306", 
+                    "sn": "潜龙湾"
+                }, 
+                {
+                    "distanceToSp": 207, 
+                    "metros": [ ], 
+                    "order": 11, 
+                    "sId": "0755-4488", 
+                    "sn": "南海玫瑰园"
+                }, 
+                {
+                    "distanceToSp": 435, 
+                    "metros": [ ], 
+                    "order": 12, 
+                    "sId": "0755-2821", 
+                    "sn": "公园南路"
+                }, 
+                {
+                    "distanceToSp": 494, 
+                    "metros": [ ], 
+                    "order": 13, 
+                    "sId": "0755-1964", 
+                    "sn": "花果山"
+                }, 
+                {
+                    "distanceToSp": 392, 
+                    "metros": [ ], 
+                    "order": 14, 
+                    "sId": "0755-3695", 
+                    "sn": "蛇口体育中心"
+                }, 
+                {
+                    "distanceToSp": 237, 
+                    "metros": [ ], 
+                    "order": 15, 
+                    "sId": "0755-5416", 
+                    "sn": "蛇口国税局"
+                }, 
+                {
+                    "distanceToSp": 214, 
+                    "metros": [ ], 
+                    "order": 16, 
+                    "sId": "0755-328", 
+                    "sn": "蛇口人民医院"
+                }, 
+                {
+                    "distanceToSp": 596, 
+                    "metros": [ ], 
+                    "order": 17, 
+                    "sId": "0755-4938", 
+                    "sn": "蛇口沃尔玛①"
+                }, 
+                {
+                    "distanceToSp": 594, 
+                    "metros": [ ], 
+                    "order": 18, 
+                    "sId": "0755-5700", 
+                    "sn": "荔秀文化街"
+                }, 
+                {
+                    "distanceToSp": 207, 
+                    "metros": [ ], 
+                    "order": 19, 
+                    "sId": "0755-5267", 
+                    "sn": "东滨路中"
+                }, 
+                {
+                    "distanceToSp": 459, 
+                    "metros": [ ], 
+                    "order": 20, 
+                    "sId": "0755-1267", 
+                    "sn": "城市山林东"
+                }, 
+                {
+                    "distanceToSp": 335, 
+                    "metros": [ ], 
+                    "order": 21, 
+                    "sId": "0755-1329", 
+                    "sn": "城市山林西"
+                }, 
+                {
+                    "distanceToSp": 455, 
+                    "metros": [ ], 
+                    "order": 22, 
+                    "sId": "0755-4922", 
+                    "sn": "南山党校"
+                }, 
+                {
+                    "distanceToSp": 433, 
+                    "metros": [ ], 
+                    "order": 23, 
+                    "sId": "0755-2588", 
+                    "sn": "南山村西"
+                }, 
+                {
+                    "distanceToSp": 663, 
+                    "metros": [ ], 
+                    "order": 24, 
+                    "sId": "0755-852", 
+                    "sn": "鼎太风华"
+                }, 
+                {
+                    "distanceToSp": 407, 
+                    "metros": [ ], 
+                    "order": 25, 
+                    "sId": "0755-1882", 
+                    "sn": "向南村"
+                }, 
+                {
+                    "distanceToSp": 632, 
+                    "metros": [ ], 
+                    "order": 26, 
+                    "sId": "0755-148", 
+                    "sn": "南山市场"
+                }, 
+                {
+                    "distanceToSp": 155, 
+                    "metros": [ ], 
+                    "order": 27, 
+                    "sId": "0755-244", 
+                    "sn": "大陆庄园"
+                }, 
+                {
+                    "distanceToSp": 353, 
+                    "metros": [ ], 
+                    "order": 28, 
+                    "sId": "0755-2712", 
+                    "sn": "田厦村"
+                }, 
+                {
+                    "distanceToSp": 327, 
+                    "metros": [ ], 
+                    "order": 29, 
+                    "sId": "0755-2672", 
+                    "sn": "桃园南新路口"
+                }, 
+                {
+                    "distanceToSp": 246, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 30, 
+                    "sId": "0755-4989", 
+                    "sn": "市六医院"
+                }, 
+                {
+                    "distanceToSp": 568, 
+                    "metros": [
+                        {
+                            "color": "91,166,83", 
+                            "lineId": "1044", 
+                            "lineNo": "1"
+                        }
+                    ], 
+                    "order": 31, 
+                    "sId": "0755-1970", 
+                    "sn": "南山文体中心"
+                }, 
+                {
+                    "distanceToSp": 776, 
+                    "metros": [ ], 
+                    "order": 32, 
+                    "sId": "0755-5171", 
+                    "sn": "南山公安分局"
+                }, 
+                {
+                    "distanceToSp": 598, 
+                    "metros": [ ], 
+                    "order": 33, 
+                    "sId": "0755-4257", 
+                    "sn": "玉泉南山路口"
+                }, 
+                {
+                    "distanceToSp": 238, 
+                    "metros": [ ], 
+                    "order": 34, 
+                    "sId": "0755-2744", 
+                    "sn": "玉泉艺园路口"
+                }, 
+                {
+                    "distanceToSp": 295, 
+                    "metros": [ ], 
+                    "order": 35, 
+                    "sId": "0755-2665", 
+                    "sn": "汇金花园"
+                }, 
+                {
+                    "distanceToSp": 1980, 
+                    "metros": [ ], 
+                    "order": 36, 
+                    "sId": "0755-4940", 
+                    "sn": "直升机场"
+                }, 
+                {
+                    "distanceToSp": 1343, 
+                    "metros": [ ], 
+                    "order": 37, 
+                    "sId": "0755-5198", 
+                    "sn": "第二高级中学"
+                }, 
+                {
+                    "distanceToSp": 522, 
+                    "metros": [ ], 
+                    "order": 38, 
+                    "sId": "0755-2752", 
+                    "sn": "茶光路中"
+                }, 
+                {
+                    "distanceToSp": 399, 
+                    "metros": [ ], 
+                    "order": 39, 
+                    "sId": "0755-947", 
+                    "sn": "茶光石鼓路口"
+                }, 
+                {
+                    "distanceToSp": 668, 
+                    "metros": [ ], 
+                    "order": 40, 
+                    "sId": "0755-1011", 
+                    "sn": "西丽派出所"
+                }, 
+                {
+                    "distanceToSp": 632, 
+                    "metros": [ ], 
+                    "order": 41, 
+                    "sId": "0755-3499", 
+                    "sn": "石鼓花园"
+                }, 
+                {
+                    "distanceToSp": 626, 
+                    "metros": [
+                        {
+                            "color": "105,79,159", 
+                            "lineId": "1048", 
+                            "lineNo": "5"
+                        }
+                    ], 
+                    "order": 42, 
+                    "sId": "0755-10", 
+                    "sn": "西丽医院"
+                }, 
+                {
+                    "distanceToSp": 689, 
+                    "metros": [
+                        {
+                            "color": "105,79,159", 
+                            "lineId": "1048", 
+                            "lineNo": "5"
+                        }
+                    ], 
+                    "order": 43, 
+                    "sId": "0755-3081", 
+                    "sn": "西丽劳力市场"
+                }, 
+                {
+                    "distanceToSp": 1065, 
+                    "metros": [
+                        {
+                            "color": "105,79,159", 
+                            "lineId": "1048", 
+                            "lineNo": "5"
+                        }
+                    ], 
+                    "order": 44, 
+                    "sId": "0755-5263", 
+                    "sn": "红花岭"
+                }, 
+                {
+                    "distanceToSp": 306, 
+                    "metros": [ ], 
+                    "order": 45, 
+                    "sId": "0755-3395", 
+                    "sn": "平山村南"
+                }, 
+                {
+                    "distanceToSp": 1630, 
+                    "metros": [ ], 
+                    "order": 46, 
+                    "sId": "0755-4491", 
+                    "sn": "丽水路南"
+                }, 
+                {
+                    "distanceToSp": 819, 
+                    "metros": [ ], 
+                    "order": 47, 
+                    "sId": "0755-5185", 
+                    "sn": "塘朗村口"
+                }, 
+                {
+                    "distanceToSp": 557, 
+                    "metros": [ ], 
+                    "order": 48, 
+                    "sId": "0755-5591", 
+                    "sn": "中科院研究院"
+                }, 
+                {
+                    "distanceToSp": 449, 
+                    "metros": [ ], 
+                    "order": 49, 
+                    "sId": "0755-2573", 
+                    "sn": "南方科技大学"
+                }
+            ], 
+            "notify": 0
+        }
